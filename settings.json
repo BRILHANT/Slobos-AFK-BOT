@@ -8,7 +8,7 @@
   "server": {
     "ip": "mylira2009.aternos.me:35823",
     "port": 35823,
-    "version": "1.21.1"
+    "version": "1.21.10"
   },
   "position": {
     "enabled": true,
