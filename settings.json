@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mylira2009.aternos.me:35823",
+    "ip": "mylira2009.aternos.me",
     "port": 35823,
     "version": "1.21.10"
   },
